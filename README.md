@@ -15,5 +15,5 @@ Follow these steps to try it out:
       
 Just let me know if you have any doubts and, of course any commit is going to be taking in consideration!
 
-#To know more about this project take a look at: https://recordnotfound.com/EntityFramework-Reverse-POCO-Code-First-Generator-sjh37-98518
+# To know more about this project take a look at: https://recordnotfound.com/EntityFramework-Reverse-POCO-Code-First-Generator-sjh37-98518
 
