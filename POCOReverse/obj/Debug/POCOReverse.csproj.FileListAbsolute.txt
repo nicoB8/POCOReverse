@@ -1,0 +1,12 @@
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\POCOReverse.exe.config
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\POCOReverse.exe
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\POCOReverse.pdb
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\EntityFramework.dll
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\EntityFramework.xml
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\obj\Debug\POCOReverse.csprojAssemblyReference.cache
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\obj\Debug\POCOReverse.csproj.CoreCompileInputs.cache
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\obj\Debug\POCOReverse.csproj.CopyComplete
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\obj\Debug\POCOReverse.exe
+C:\Users\nbonora\source\repos\POCOReverse\POCOReverse\obj\Debug\POCOReverse.pdb
